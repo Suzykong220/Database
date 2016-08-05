@@ -7,7 +7,6 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
  * this class construct a database of student records.
- * @author Scarlet
  *
  */
 public class Database {
