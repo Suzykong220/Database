@@ -1,23 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
 // Title:            Database
 // Files:            Course.java
-// Semester:         Summer 2016
-//
-// Author:           Scarlet Guo zguo74@wisc.edu
-// CS Login:         zguo74
-// Lecturer's Name:  GERALD
-////////////////////PAIR PROGRAMMERS COMPLETE THIS SECTION ////////////////////
-//
-//Pair Partner:     Qingxu Kong
-//Email:            qkong5@wisc.edu
-//CS Login:         qkong5
-//////////////////////////// 80 columns wide //////////////////////////////////
-/**
- * This class represent a course including its department, number and credit
- * @author Scarlet
- *
- */
+///////////////////////////////////////////////////////////////////////////////
+
 public class Course {
 	
 	/**
